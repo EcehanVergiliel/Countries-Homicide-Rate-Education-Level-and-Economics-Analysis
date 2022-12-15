@@ -1,8 +1,3 @@
-### BEST CODER GANG ###
-### Sena Gulizar Aktas 2428852, Gizem Sarul 2429256, M. Egemen Gundur 2429090, Ecehan Vergiliel 2429397, E. Doga Askin 2501955 ###
-### STAT292 Final Project -- June, 2022 ###
-
-
 library(tidyverse)
 library(shiny)
 library(plotly)
